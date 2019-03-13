@@ -13,6 +13,7 @@ import {
 } from '../../utils/colors';
 import { connect } from 'react-redux';
 import CustomButton from '../utils/CustomButton';
+import { clearLocalNotification, setLocalNotification } from "../../utils/notifications";
 
 class Quiz extends Component {
   state = {
