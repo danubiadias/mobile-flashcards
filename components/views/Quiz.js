@@ -63,6 +63,11 @@ class Quiz extends Component {
     const number = this.state.questionNumber + 1;
 
     if (questionNumber === decks[deck].questions.length) {
+      
+      //Se completar o quiz então limpa o envio de notificação e reinicia a contagem para notificar no proximo dia
+      clearLocalNotification(); 
+      setLocalNotification();
+      
       return (
         <View style={styles.container}>
           <View style={styles.card}>
