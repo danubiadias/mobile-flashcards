@@ -12,7 +12,7 @@ A aplicação foi criada com o create-react-native-app, sendo necessário que o 
 O usuário deve acessar o diretório que deseja armazenar a aplicação e, em seguida, executar os seguintes passos:
 
 1. Clone do projeto no diretório escolhido:
-<pre>git clone https://github.com/danubiadias/mobile-flashcards-project.git </pre>
+<pre>git clone https://github.com/danubiadias/mobile-flashcards.git </pre>
 
 2. Instalação de dependências e inicialização do aplicativo
 
