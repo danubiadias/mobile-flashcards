@@ -12,7 +12,7 @@ import Deck from './components/views/Deck';
 import NewCard from './components/views/NewCard';
 import Quiz from './components/views/Quiz'
 import { purple, white } from './utils/colors';
-import { setLocalNotification } from '../../utils/notifications'
+import { setLocalNotification } from './utils/notifications'
 
 const Tabs = TabNavigator(
   {
