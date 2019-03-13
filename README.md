@@ -23,3 +23,8 @@ A partir do diretório do projeto, executar os seguintes comandos:
     - yarn start ou npm start
     
 </pre>
+
+# Executar 
+
+Instale o <a href="https://expo.io/learn">Expo CLI</a> 
+Siga as instruções no Expo Dev Tools para ver no emulador ou faça download do aplicativo Expo para executar no dispositivo móvel.
